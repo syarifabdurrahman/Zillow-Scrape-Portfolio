@@ -10,3 +10,5 @@
 ## preview scrape
 scrape to csv data
 
+![](2023-01-23-16-29-37.png)
+
